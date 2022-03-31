@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VixenBQ
+- 👋 Hi, I’m @vitaliiotverchenko
 - 👀 I will not hide - I want to learn effective and necessary knowledge so that I can earn enough to travel and live in other countries. I study IT not because I like it, but as an opportunity to change my life.
 - 🌱 Now I am learning python as one of the simplest and most effective programming languages
 - 💞️ I will gladly accept any help, advice, constructive criticism, from any person.
